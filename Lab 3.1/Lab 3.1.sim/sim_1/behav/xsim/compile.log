@@ -1,0 +1,9 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hayde_000/Desktop/UCI/Winter 2018/EECS31L/Lab3/lab3s.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RegFile
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-307] analyzing entity Shifter
+INFO: [VRFC 10-307] analyzing entity Selector
+INFO: [VRFC 10-307] analyzing entity Reg
+INFO: [VRFC 10-307] analyzing entity ThreeStateBuff
+INFO: [VRFC 10-307] analyzing entity Controller
+INFO: [VRFC 10-307] analyzing entity lab3s
